@@ -7,6 +7,8 @@
 *.fls
 *.out
 *.toc
+*.pdf
+*.auctex-auto
 
 ## Intermediate documents:
 *.dvi
@@ -16,6 +18,9 @@
 ## Vim & Emacs temp files:
 .*sw[op]
 *~
+
+## My resume directory
+myresume/
 
 ### Mac OS X ###
 ## Mac OS X metadata files:
